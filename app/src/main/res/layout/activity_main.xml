@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    tools:layout_editor_absoluteX="52dp"
+    tools:layout_editor_absoluteY="0dp"
+    >
+
+    <Button
+        android:id="@+id/menu"
+        android:layout_width="118dp"
+        android:layout_height="46dp"
+        android:background="#0000"
+        android:text="меню"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.09"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="307dp"
+        android:layout_height="317dp"
+        android:layout_marginStart="-120dp"
+        android:layout_marginTop="50dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.08"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.164"
+        app:srcCompat="@drawable/back_menu"
+
+        />
+
+    <LinearLayout
+        android:layout_width="170dp"
+        android:layout_height="246dp"
+        android:layout_marginTop="-30dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.004"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.274">
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#0000"
+            android:text="Новости"
+            android:textAlignment="viewStart"
+            android:textColor="#FFFFFFFF"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#0000"
+            android:text="Главная"
+            android:textColor="#FFFFFF"
+            android:textAlignment="viewStart"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#0000"
+            android:textColor="#FFFFFF"
+            android:text="Дистант "
+            android:textAlignment="viewStart"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/button8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#0000"
+            android:text="Справочник"
+            android:textAlignment="viewStart"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#0000"
+            android:textColor="#FFFFFF"
+            android:text="О проекте "
+            android:textAlignment="viewStart"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/classNum"
+        android:layout_width="165dp"
+        android:layout_height="45dp"
+        android:ems="10"
+        android:hint="Класс"
+        android:inputType="number"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.369"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.352" />
+
+    <EditText
+        android:id="@+id/classBuk"
+        android:layout_width="66dp"
+        android:layout_height="45dp"
+        android:ems="10"
+        android:hint="Буква"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.742"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.352" />
+
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:text="Готово"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.433" />
+
+    <EditText
+        android:id="@+id/familiya"
+        android:layout_width="232dp"
+        android:layout_height="41dp"
+        android:ems="10"
+        android:hint="Фамилия"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.508"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.198" />
+
+    <EditText
+        android:id="@+id/imya"
+        android:layout_width="232dp"
+        android:layout_height="41dp"
+        android:ems="10"
+        android:hint="Имя"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.508"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.257" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout3"
+        android:layout_width="213dp"
+        android:layout_height="409dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.994"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.652">
+
+        <TextView
+            android:id="@+id/u1"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:textAlignment="center"
+            android:textColor="#000"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/u2"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:textAlignment="center"
+            android:textColor="#000"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/u3"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:textAlignment="center"
+            android:textColor="#000"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/u4"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:textAlignment="center"
+            android:textColor="#000"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/u5"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:textAlignment="center"
+            android:textColor="#000"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/u6"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:textAlignment="center"
+            android:textColor="#000"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/u7"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:textAlignment="center"
+            android:textColor="#000"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/u8"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:textAlignment="center"
+            android:textColor="#000"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="166dp"
+        android:layout_height="413dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.126"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.66">
+
+        <TextView
+            android:id="@+id/zvU1"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/zvU2"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/zvU3"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/zvU4"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/zvU5"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/zvU6"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/zvU7"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/zvU8"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="269dp"
+        android:layout_height="28dp"
+        android:layout_marginBottom="135dp"
+        android:text='Нажимая "Готово" вы соглашаетесь с '
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/uslovPolitic"
+        android:layout_width="377dp"
+        android:layout_height="55dp"
+        android:layout_marginBottom="110dp"
+        android:background="#0000"
+        android:text="Условиями использования и политикой конфиденциальности"
+        android:textColor="#000000"
+        android:textSize="8sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.507"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Сокращённые уроки"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.114"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout"
+        app:layout_constraintVertical_bias="0.226" />
+
+    <TextView
+        android:id="@+id/namename"
+        android:layout_width="309dp"
+        android:layout_height="77dp"
+        android:textAlignment="textEnd"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.919"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <LinearLayout
+        android:layout_width="314dp"
+        android:layout_height="82dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.93"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/namename"
+        app:layout_constraintVertical_bias="0.0">
+
+        <TextView
+            android:id="@+id/textViewtemp"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:textAlignment="textEnd"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textViewspeed"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:textAlignment="textEnd"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="238dp"
+        android:layout_height="99dp"
+        android:layout_marginTop="150dp"
+        android:text="Бета-версия приложения!"
+        android:textAlignment="center"
+        android:textColor="#000"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

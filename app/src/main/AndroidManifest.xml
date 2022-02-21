@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.my_school">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/icon"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.My_school"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".MatAlgTenActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MatGeomActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MatAlgNineKvadrfuncActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OgeStrukturaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MathOge22ZadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MathOge17ZadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MathOge16ZadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MathOge15ZadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MathOge14ZadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MathOge11ZadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MathOge10ZadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MathOge9ZadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MathOge1ZadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MathOgeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MatOgeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MatAlgNineDiscriminantActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MatAlgNineActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MatAlgebraActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MaterialsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".UslovActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AboutActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Dist"
+            android:exported="false" />
+        <activity
+            android:name=".News"
+            android:exported="false" />
+        <activity
+            android:name=".Splash"
+            android:exported="true"
+            android:theme="@style/splashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>

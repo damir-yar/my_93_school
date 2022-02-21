@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/yarda/AndroidStudioProjects/My_school/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.21851851851851853" />
+        <entry key="..\:/Users/yarda/AndroidStudioProjects/My_school/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21851851851851853" />
+        <entry key="..\:/Users/yarda/AndroidStudioProjects/My_school/app/src/main/res/drawable/icon.xml" value="0.2076923076923077" />
+        <entry key="..\:/Users/yarda/AndroidStudioProjects/My_school/app/src/main/res/drawable/splash_scre.xml" value="0.21296296296296297" />
+        <entry key="..\:/Users/yarda/AndroidStudioProjects/My_school/app/src/main/res/drawable/splash_screen.xml" value="0.21851851851851853" />
+        <entry key="..\:/Users/yarda/AndroidStudioProjects/My_school/app/src/main/res/layout/activity_about.xml" value="0.302536231884058" />
+        <entry key="..\:/Users/yarda/AndroidStudioProjects/My_school/app/src/main/res/layout/activity_dist.xml" value="0.31657608695652173" />
+        <entry key="..\:/Users/yarda/AndroidStudioProjects/My_school/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/yarda/AndroidStudioProjects/My_school/app/src/main/res/layout/activity_mat_alg_nine.xml" value="0.33106884057971014" />
+        <entry key="..\:/Users/yarda/AndroidStudioProjects/My_school/app/src/main/res/layout/activity_mat_alg_nine_discriminant.xml" value="0.33106884057971014" />
+        <entry key="..\:/Users/yarda/AndroidStudioProjects/My_school/app/src/main/res/layout/activity_mat_alg_nine_kvadrfunc.xml" value="0.30344202898550726" />
+        <entry key="..\:/Users/yarda/AndroidStudioProjects/My_school/app/src/main/res/layout/activity_mat_alg_ten.xml" value="0.29981884057971014" />
+        <entry key="..\:/Users/yarda/AndroidStudioProjects/My_school/app/src/main/res/layout/activity_mat_algebra.xml" value="0.33106884057971014" />
+        <entry key="..\:/Users/yarda/AndroidStudioProjects/My_school/app/src/main/res/layout/activity_mat_geom.xml" value="0.29981884057971014" />
+        <entry key="..\:/Users/yarda/AndroidStudioProjects/My_school/app/src/main/res/layout/activity_mat_oge.xml" value="0.3070652173913043" />
+        <entry key="..\:/Users/yarda/AndroidStudioProjects/My_school/app/src/main/res/layout/activity_materials.xml" value="0.33106884057971014" />
+        <entry key="..\:/Users/yarda/AndroidStudioProjects/My_school/app/src/main/res/layout/activity_math_oge.xml" value="0.3070652173913043" />
+        <entry key="..\:/Users/yarda/AndroidStudioProjects/My_school/app/src/main/res/layout/activity_math_oge_10_zad.xml" value="0.3070652173913043" />
+        <entry key="..\:/Users/yarda/AndroidStudioProjects/My_school/app/src/main/res/layout/activity_math_oge_11_zad.xml" value="0.3070652173913043" />
+        <entry key="..\:/Users/yarda/AndroidStudioProjects/My_school/app/src/main/res/layout/activity_math_oge_14_zad.xml" value="0.3070652173913043" />
+        <entry key="..\:/Users/yarda/AndroidStudioProjects/My_school/app/src/main/res/layout/activity_math_oge_15_zad.xml" value="0.3070652173913043" />
+        <entry key="..\:/Users/yarda/AndroidStudioProjects/My_school/app/src/main/res/layout/activity_math_oge_16_zad.xml" value="0.3070652173913043" />
+        <entry key="..\:/Users/yarda/AndroidStudioProjects/My_school/app/src/main/res/layout/activity_math_oge_17_zad.xml" value="0.3070652173913043" />
+        <entry key="..\:/Users/yarda/AndroidStudioProjects/My_school/app/src/main/res/layout/activity_math_oge_1_zad.xml" value="0.3070652173913043" />
+        <entry key="..\:/Users/yarda/AndroidStudioProjects/My_school/app/src/main/res/layout/activity_math_oge_22_zad.xml" value="0.3070652173913043" />
+        <entry key="..\:/Users/yarda/AndroidStudioProjects/My_school/app/src/main/res/layout/activity_math_oge_9_zad.xml" value="0.3070652173913043" />
+        <entry key="..\:/Users/yarda/AndroidStudioProjects/My_school/app/src/main/res/layout/activity_menu.xml" value="0.29891304347826086" />
+        <entry key="..\:/Users/yarda/AndroidStudioProjects/My_school/app/src/main/res/layout/activity_news.xml" value="0.3197463768115942" />
+        <entry key="..\:/Users/yarda/AndroidStudioProjects/My_school/app/src/main/res/layout/activity_oge_struktura.xml" value="0.3070652173913043" />
+        <entry key="..\:/Users/yarda/AndroidStudioProjects/My_school/app/src/main/res/layout/activity_sing_in.xml" value="0.32608695652173914" />
+        <entry key="..\:/Users/yarda/AndroidStudioProjects/My_school/app/src/main/res/layout/activity_uslov.xml" value="0.302536231884058" />
+        <entry key="..\:/Users/yarda/AndroidStudioProjects/My_school/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2076923076923077" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

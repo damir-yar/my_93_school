@@ -1,0 +1,429 @@
+<resources>
+    <string name="app_name">My 93 school</string>
+    <string name="pageTitle">Ошибка!</string>
+    <!--  ZVONKI  -->
+    <!--  РАСПИСАНИЕ ЗВОНКОВ  -->
+    <!--  OBICHNIE  -->
+    <!--  ОБЩЕЕ (ПН-ПТ)  -->
+    <string name="zu1">1.  08:00-08:40</string>
+    <string name="zu2">2.  08:50-09:30</string>
+    <string name="zu3">3.  09:45-10:25</string>
+    <string name="zu4">4.  10:40-11:20</string>
+    <string name="zu5">5.  11:35-12:15</string>
+    <string name="zu6">6.  12:20-13:00</string>
+    <string name="zu7">7.  13:05-13:45</string>
+    <string name="zu8">8.  14:00-14:40</string>
+    <!--  SUBBOTA  -->
+    <!--  СУББОТА  -->
+    <string name="zuS1">1.  08:00-08:40</string>
+    <string name="zuS2">2.  08:50-09:30</string>
+    <string name="zuS3">3.  09:40-10:20</string>
+    <string name="zuS4">4.  10:35-11:15</string>
+    <string name="zuS5">5.  11:25-12:05</string>
+    <string name="zuS6">6.  12:15-12:55</string>
+    <string name="zuS7">7.  13:00-13:40</string>
+    <string name="zuS8">8.  13:50-14:30</string>
+    <!--  SOKRASHENNIE  -->
+    <!--  СОКРАЩЁННЫЕ УРОКИ  -->
+    <string name="zuSSS1">1.  08:00-08:30</string>
+    <string name="zuSSS2">2.  08:40-09:10</string>
+    <string name="zuSSS3">3.  09:25-09:55</string>
+    <string name="zuSSS4">4.  10:10-10:40</string>
+    <string name="zuSSS5">5.  11:00-11:30</string>
+    <string name="zuSSS6">6.  11:40-12:10</string>
+    <string name="zuSSS7">7.  12:25-12:55</string>
+    <string name="zuSSS8">8.  13:10-13:40</string>
+
+
+    <!--  RASPISANIE  -->
+    <!--  РАСПИСАНИЕ УРОКОВ  -->
+    <!--  10А (СОЦЭКОНОМ) КЛАСС  -->
+    <string name="tenAMon1"> </string>
+    <string name="tenAMon2"> </string>
+    <string name="tenAMon3">История</string>
+    <string name="tenAMon4">История</string>
+    <string name="tenAMon5">Культура речи</string>
+    <string name="tenAMon6">Фин грамотность</string>
+    <string name="tenAMon7">Физкультура</string>
+    <string name="tenAMon8">Физкультура</string>
+
+    <string name="tenATue1">Английский язык</string>
+    <string name="tenATue2">Английский язык</string>
+    <string name="tenATue3">Экономика</string>
+    <string name="tenATue4">Экономика</string>
+    <string name="tenATue5">Литература</string>
+    <string name="tenATue6">Литература</string>
+    <string name="tenATue7"> </string>
+    <string name="tenATue8"> </string>
+
+    <string name="tenAWed1">Алгебра</string>
+    <string name="tenAWed2">Алгебра</string>
+    <string name="tenAWed3">Русский язык</string>
+    <string name="tenAWed4">Русский язык</string>
+    <string name="tenAWed5">Асторномия</string>
+    <string name="tenAWed6">Классный час</string>
+    <string name="tenAWed7"> </string>
+    <string name="tenAWed8"> </string>
+
+    <string name="tenAThu1">Геометрия</string>
+    <string name="tenAThu2">Геометрия</string>
+    <string name="tenAThu3">География</string>
+    <string name="tenAThu4">Семьеведение</string>
+    <string name="tenAThu5">ОБЖ</string>
+    <string name="tenAThu6">Литература</string>
+    <string name="tenAThu7">Русский язык</string>
+    <string name="tenAThu8"> </string>
+
+    <string name="tenAFri1">Алгебра</string>
+    <string name="tenAFri2">Алгебра</string>
+    <string name="tenAFri3">Обществознание</string>
+    <string name="tenAFri4">Обществознание</string>
+    <string name="tenAFri5">Право</string>
+    <string name="tenAFri6">Право</string>
+    <string name="tenAFri7">Физкультура</string>
+    <string name="tenAFri8"> </string>
+
+    <string name="tenASat1">Алгебра</string>
+    <string name="tenASat2">Алгебра</string>
+    <string name="tenASat3">Информатика</string>
+    <string name="tenASat4">Физика</string>
+    <string name="tenASat5"> </string>
+    <string name="tenASat6"> </string>
+    <string name="tenASat7"> </string>
+    <string name="tenASat8"> </string>
+
+    <!--  10Б (ФИЗМАТ) КЛАСС  -->
+    <string name="tenBMon1"> </string>
+    <string name="tenBMon2"> </string>
+    <string name="tenBMon3">История</string>
+    <string name="tenBMon4">История</string>
+    <string name="tenBMon5">Информатика</string>
+    <string name="tenBMon6">Информатика</string>
+    <string name="tenBMon7">Физкультура</string>
+    <string name="tenBMon8">Физкультура</string>
+
+    <string name="tenBTue1">Английский язык</string>
+    <string name="tenBTue2">Английский язык</string>
+    <string name="tenBTue3">Физика</string>
+    <string name="tenBTue4">Физика</string>
+    <string name="tenBTue5">Литература</string>
+    <string name="tenBTue6">Литература</string>
+    <string name="tenBTue7"> </string>
+    <string name="tenBTue8"> </string>
+
+    <string name="tenBWed1">Алгебра</string>
+    <string name="tenBWed2">Алгебра</string>
+    <string name="tenBWed3">Русский язык</string>
+    <string name="tenBWed4">Русский язык</string>
+    <string name="tenBWed5">Асторномия</string>
+    <string name="tenBWed6">Классный час</string>
+    <string name="tenBWed7"> </string>
+    <string name="tenBWed8"> </string>
+
+    <string name="tenBThu1">Геометрия</string>
+    <string name="tenBThu2">Геометрия</string>
+    <string name="tenBThu3">Физика</string>
+    <string name="tenBThu4">Физика</string>
+    <string name="tenBThu5">ОБЖ</string>
+    <string name="tenBThu6">Литература</string>
+    <string name="tenBThu7">Русский язык</string>
+    <string name="tenBThu8"> </string>
+
+    <string name="tenBFri1">Алгебра</string>
+    <string name="tenBFri2">Алгебра</string>
+    <string name="tenBFri3">Обществознание</string>
+    <string name="tenBFri4">Обществознание</string>
+    <string name="tenBFri5">Информатика</string>
+    <string name="tenBFri6">Информатика</string>
+    <string name="tenBFri7">Физкультура</string>
+    <string name="tenBFri8"> </string>
+
+    <string name="tenBSat1">Алгебра</string>
+    <string name="tenBSat2">Алгебра</string>
+    <string name="tenBSat3">Английский язык</string>
+    <string name="tenBSat4">Физика</string>
+    <string name="tenBSat5"> </string>
+    <string name="tenBSat6"> </string>
+    <string name="tenBSat7"> </string>
+    <string name="tenBSat8"> </string>
+
+
+    <!--  9А КЛАСС  -->
+    <string name="nineAMon1">Химия</string>
+    <string name="nineAMon2">Алгебра</string>
+    <string name="nineAMon3">Физика</string>
+    <string name="nineAMon4">Информатика</string>
+    <string name="nineAMon5">Литература</string>
+    <string name="nineAMon6">Методы решения задач</string>
+    <string name="nineAMon7"> </string>
+    <string name="nineAMon8"> </string>
+
+    <string name="nineATue1">География</string>
+    <string name="nineATue2">Обществознание</string>
+    <string name="nineATue3">Русский язык</string>
+    <string name="nineATue4">Литература</string>
+    <string name="nineATue5">Физкультура</string>
+    <string name="nineATue6">Физкультура</string>
+    <string name="nineATue7"> </string>
+    <string name="nineATue8"> </string>
+
+    <string name="nineAWed1">Геометрия</string>
+    <string name="nineAWed2">История</string>
+    <string name="nineAWed3">ОБЖ</string>
+    <string name="nineAWed4">Биология</string>
+    <string name="nineAWed5">Русский язык</string>
+    <string name="nineAWed6">Химия</string>
+    <string name="nineAWed7">Особенности написания сочинений</string>
+    <string name="nineAWed8"> </string>
+
+    <string name="nineAThu1">Классный час</string>
+    <string name="nineAThu2">Английский язык</string>
+    <string name="nineAThu3">Алгебра</string>
+    <string name="nineAThu4">Физика</string>
+    <string name="nineAThu5">Литература</string>
+    <string name="nineAThu6">Нем/Фран язык</string>
+    <string name="nineAThu7">Методы решения задач</string>
+    <string name="nineAThu8"> </string>
+
+    <string name="nineAFri1">Алгебра</string>
+    <string name="nineAFri2">История</string>
+    <string name="nineAFri3">Физкультура</string>
+    <string name="nineAFri4">Биология</string>
+    <string name="nineAFri5">География</string>
+    <string name="nineAFri6">Английский язык</string>
+    <string name="nineAFri7"> </string>
+    <string name="nineAFri8"> </string>
+
+    <string name="nineASat1">Родная литераура</string>
+    <string name="nineASat2">Русский язык</string>
+    <string name="nineASat3">Геометрия</string>
+    <string name="nineASat4">Физика</string>
+    <string name="nineASat5">Английский язык</string>
+    <string name="nineASat6">История</string>
+    <string name="nineASat7"> </string>
+    <string name="nineASat8"> </string>
+
+
+    <!--  9Б КЛАСС  -->
+    <string name="nineBMon1">Литература</string>
+    <string name="nineBMon2">Биология</string>
+    <string name="nineBMon3">Физкультура</string>
+    <string name="nineBMon4">Химия</string>
+    <string name="nineBMon5">Физика</string>
+    <string name="nineBMon6">История</string>
+    <string name="nineBMon7"> </string>
+    <string name="nineBMon8"> </string>
+
+    <string name="nineBTue1">Русский язык</string>
+    <string name="nineBTue2">Алгебра</string>
+    <string name="nineBTue3">Английский язык</string>
+    <string name="nineBTue4">Обществознание</string>
+    <string name="nineBTue5">Литература</string>
+    <string name="nineBTue6">География</string>
+    <string name="nineBTue7"> </string>
+    <string name="nineBTue8"> </string>
+
+    <string name="nineBWed1">Особенности написания сочинений</string>
+    <string name="nineBWed2">ОБЖ</string>
+    <string name="nineBWed3">Русский язык</string>
+    <string name="nineBWed4">Геометрия</string>
+    <string name="nineBWed5">Химия</string>
+    <string name="nineBWed6">История</string>
+    <string name="nineBWed7">Методы решения задач</string>
+    <string name="nineBWed8"> </string>
+
+    <string name="nineBThu1">Классный час</string>
+    <string name="nineBThu2">Биология</string>
+    <string name="nineBThu3">Английский язык</string>
+    <string name="nineBThu4">Алгебра</string>
+    <string name="nineBThu5">Физика</string>
+    <string name="nineBThu6">Физкультура</string>
+    <string name="nineBThu7">Физкультура</string>
+    <string name="nineBThu8"> </string>
+
+    <string name="nineBFri1">Родная литература</string>
+    <string name="nineBFri2">Английский язык</string>
+    <string name="nineBFri3">Алгебра</string>
+    <string name="nineBFri4">Информатика</string>
+    <string name="nineBFri5">Русский язык</string>
+    <string name="nineBFri6">География</string>
+    <string name="nineBFri7"> </string>
+    <string name="nineBFri8"> </string>
+
+    <string name="nineBSat1"> </string>
+    <string name="nineBSat2">Нем/Фран язык</string>
+    <string name="nineBSat3">История</string>
+    <string name="nineBSat4">Литература</string>
+    <string name="nineBSat5">Физика</string>
+    <string name="nineBSat6">Геометрия</string>
+    <string name="nineBSat7">Методы решения задач</string>
+    <string name="nineBSat8"> </string>
+
+
+    <!--  9В КЛАСС  -->
+    <string name="nineVMon1">Английский язык</string>
+    <string name="nineVMon2">Физика</string>
+    <string name="nineVMon3">География</string>
+    <string name="nineVMon4">Алгебра</string>
+    <string name="nineVMon5">Химия</string>
+    <string name="nineVMon6">Особенности написания сочинений</string>
+    <string name="nineVMon7">Методы решения задач</string>
+    <string name="nineVMon8">Английский язык</string>
+
+    <string name="nineVTue1">Физкультура</string>
+    <string name="nineVTue2">Физкультура</string>
+    <string name="nineVTue3">Русский язык</string>
+    <string name="nineVTue4">Алгебра</string>
+    <string name="nineVTue5">Литература</string>
+    <string name="nineVTue6">Обществознание</string>
+    <string name="nineVTue7"> </string>
+    <string name="nineVTue8"> </string>
+
+    <string name="nineVWed1">Английский язык</string>
+    <string name="nineVWed2">География</string>
+    <string name="nineVWed3">Химия</string>
+    <string name="nineVWed4">История</string>
+    <string name="nineVWed5">Физика</string>
+    <string name="nineVWed6">Геометрия</string>
+    <string name="nineVWed7">ОБЖ</string>
+    <string name="nineVWed8">Английский язык</string>
+
+    <string name="nineVThu1">Английский язык</string>
+    <string name="nineVThu2">Физкультура</string>
+    <string name="nineVThu3">История</string>
+    <string name="nineVThu4">Литература</string>
+    <string name="nineVThu5">Биология</string>
+    <string name="nineVThu6">Классный час</string>
+    <string name="nineVThu7">Нем/Фран язык</string>
+    <string name="nineVThu8"> </string>
+
+    <string name="nineVFri1">Английский язык</string>
+    <string name="nineVFri2">Информатика</string>
+    <string name="nineVFri3">Русский язык</string>
+    <string name="nineVFri4">Литература</string>
+    <string name="nineVFri5">Алгебра</string>
+    <string name="nineVFri6">Биология</string>
+    <string name="nineVFri7">Методы решения задач</string>
+    <string name="nineVFri8"> </string>
+
+    <string name="nineVSat1">Родная литература</string>
+    <string name="nineVSat2">Русский язык</string>
+    <string name="nineVSat3">Физика</string>
+    <string name="nineVSat4">История</string>
+    <string name="nineVSat5">Геометрия</string>
+    <string name="nineVSat6"> </string>
+    <string name="nineVSat7"> </string>
+    <string name="nineVSat8"> </string>
+
+
+    <!--  9Г КЛАСС  -->
+    <string name="nineGMon1">Биология</string>
+    <string name="nineGMon2">Русский язык</string>
+    <string name="nineGMon3">Химия</string>
+    <string name="nineGMon4">Английский язык</string>
+    <string name="nineGMon5">Алгебра</string>
+    <string name="nineGMon6">Физика</string>
+    <string name="nineGMon7"> </string>
+    <string name="nineGMon8"> </string>
+
+    <string name="nineGTue1">Обществознание</string>
+    <string name="nineGTue2">География</string>
+    <string name="nineGTue3">Алгебра</string>
+    <string name="nineGTue4">Литература</string>
+    <string name="nineGTue5">Особенности написания сочинений</string>
+    <string name="nineGTue6">Методы решения задач</string>
+    <string name="nineGTue7"> </string>
+    <string name="nineGTue8"> </string>
+
+    <string name="nineGWed1">История</string>
+    <string name="nineGWed2">Химия</string>
+    <string name="nineGWed3">Русский язык</string>
+    <string name="nineGWed4">ОБЖ</string>
+    <string name="nineGWed5">Геометрия</string>
+    <string name="nineGWed6">Литература</string>
+    <string name="nineGWed7">Нем/Фран язык</string>
+    <string name="nineGWed8"> </string>
+
+    <string name="nineGThu1">Классный час</string>
+    <string name="nineGThu2">Английский язык</string>
+    <string name="nineGThu3">Физика</string>
+    <string name="nineGThu4">География</string>
+    <string name="nineGThu5">Алгебра</string>
+    <string name="nineGThu6">История</string>
+    <string name="nineGThu7">Родная литература</string>
+    <string name="nineGThu8"> </string>
+
+    <string name="nineGFri1">Русский язык</string>
+    <string name="nineGFri2">Физкультура</string>
+    <string name="nineGFri3">Информатика</string>
+    <string name="nineGFri4">Английский язык</string>
+    <string name="nineGFri5">Биология</string>
+    <string name="nineGFri6">Методы решения задач</string>
+    <string name="nineGFri7"> </string>
+    <string name="nineGFri8"> </string>
+
+    <string name="nineGSat1">Геометрия</string>
+    <string name="nineGSat2">Физкультура</string>
+    <string name="nineGSat3">Физкультура</string>
+    <string name="nineGSat4">Литература</string>
+    <string name="nineGSat5">История</string>
+    <string name="nineGSat6">Физика</string>
+    <string name="nineGSat7"> </string>
+    <string name="nineGSat8"> </string>
+
+
+    <!--  9Д КЛАСС  -->
+    <string name="nineDMon1">Физкультура</string>
+    <string name="nineDMon2">Физкультура</string>
+    <string name="nineDMon3">Биология</string>
+    <string name="nineDMon4">Физика</string>
+    <string name="nineDMon5">Русский язык</string>
+    <string name="nineDMon6">Химия</string>
+    <string name="nineDMon7">Английский язык</string>
+    <string name="nineDMon8"> </string>
+
+    <string name="nineDTue1"> </string>
+    <string name="nineDTue2">Русский язык</string>
+    <string name="nineDTue3">Обществознание</string>
+    <string name="nineDTue4">Геометрия</string>
+    <string name="nineDTue5">Алгебра</string>
+    <string name="nineDTue6">Литература</string>
+    <string name="nineDTue7"> </string>
+    <string name="nineDTue8"> </string>
+
+    <string name="nineDWed1">Нем/Фран язык</string>
+    <string name="nineDWed2">Литература</string>
+    <string name="nineDWed3">География</string>
+    <string name="nineDWed4">Химия</string>
+    <string name="nineDWed5">История</string>
+    <string name="nineDWed6">Алгебра</string>
+    <string name="nineDWed7">Методы решения задач</string>
+    <string name="nineDWed8"> </string>
+
+    <string name="nineDThu1">Классный час</string>
+    <string name="nineDThu2">Физика</string>
+    <string name="nineDThu3">Биология</string>
+    <string name="nineDThu4">ОБЖ</string>
+    <string name="nineDThu5">Геометрия</string>
+    <string name="nineDThu6">Методы решения задач</string>
+    <string name="nineDThu7">Английский язык</string>
+    <string name="nineDThu8"> </string>
+
+    <string name="nineDFri1">Информатика</string>
+    <string name="nineDFri2">География</string>
+    <string name="nineDFri3">Алгебра</string>
+    <string name="nineDFri4">Физкультура</string>
+    <string name="nineDFri5">Литература</string>
+    <string name="nineDFri6">История</string>
+    <string name="nineDFri7"> </string>
+    <string name="nineDFri8"> </string>
+
+    <string name="nineDSat1">История</string>
+    <string name="nineDSat2">Физика</string>
+    <string name="nineDSat3">Русский язык</string>
+    <string name="nineDSat4">Английский язык</string>
+    <string name="nineDSat5">Родная литература</string>
+    <string name="nineDSat6">Особенности написания сочинений</string>
+    <string name="nineDSat7"> </string>
+    <string name="nineDSat8"> </string>
+</resources>
